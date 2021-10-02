@@ -23,12 +23,10 @@
 ## Python
 
 - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994)  
-- [Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python](https://www.amazon.com/Data-Engineering-Python-datasets-pipelines/dp/183921418X)  
-- [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
-- 
+- [Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python](https://www.amazon.com/Data-Engineering-Python-datasets-pipelines/dp/183921418X)  
+- [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) 
 
 ## General
 - [Market Mind Games: A Radical Psychology of Investing, Trading and Risk](https://www.amazon.com/Market-Mind-Games-Psychology-Investing/dp/0071756221)
 - [The FINTECH Book: The Financial Technology Handbook for Investors, Entrepreneurs and Visionaries](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries-dp-111921887X/dp/111921887X/ref=mt_other?_encoding=UTF8&me=&qid=)  
-- 

@@ -8,6 +8,7 @@
 - [Mastering Blockchain: A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more, 3rd Edition](https://www.amazon.com/Mastering-Blockchain-distributed-consensus-cryptocurrencies/dp/1839213191/ref=asc_df_1839213191/?tag=hyprod-20&linkCode=df0&hvadid=459440273404&hvpos=&hvnetw=g&hvrand=2096507749973183573&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015249&hvtargid=pla-956266485981&psc=1)  
 - [How to DeFi: Beginner](https://www.amazon.com/How-DeFi-Beginner-Coin-Gecko/dp/B098GT2PSG/ref=asc_df_B098GT2PSG/?tag=hyprod-20&linkCode=df0&hvadid=532701074352&hvpos=&hvnetw=g&hvrand=14635272059459199220&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015249&hvtargid=pla-1374972546681&psc=1)  
 - [How to DeFi: Advanced](https://www.amazon.com/How-DeFi-Advanced-Coin-Gecko/dp/B098H215P3/ref=asc_df_B098H215P3/?tag=hyprod-20&linkCode=df0&hvadid=532384509515&hvpos=&hvnetw=g&hvrand=14635272059459199220&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015249&hvtargid=pla-1568037674592&psc=1) 
+- [Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment](https://www.amazon.com/Hands-Contract-Development-Solidity-Ethereum/dp/1492045268) 
 - [Fintech: Hacking, Blockchain, Big Data, Cryptocurrency (Financial Technology, Smart Contracts, Digital Banking, Internet Technology)](https://www.amazon.com/Fintech-Blockchain-Cryptocurrency-Financial-Technology/dp/1976006880)  
 - [The Age of Cryptocurrency: How Bitcoin and the Blockchain Are Challenging the Global Economic Order](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556)  
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861)  
@@ -22,9 +23,19 @@
 ## Python
 
 - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994)  
+- [Python Automation Cookbook: 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more](https://www.amazon.com/Python-Automation-Cookbook-automation-processing/dp/1800207085)
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
 - [Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python](https://www.amazon.com/Data-Engineering-Python-datasets-pipelines/dp/183921418X)  
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) 
+- [Financial Theory with Python: A Gentle Introduction](https://www.amazon.com/Financial-Theory-Python-Gentle-Introduction/dp/1098104358)
+- [Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715)
+- [High Performance Python: Practical Performant Programming for Humans](https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1492055026/ref=asc_df_1492055026/?tag=hyprod-20&linkCode=df0&hvadid=416953777802&hvpos=&hvnetw=g&hvrand=9797095944547159871&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015249&hvtargid=pla-909763356913&psc=1&tag=&ref=&adgrpid=93867144397&hvpone=&hvptwo=&hvadid=416953777802&hvpos=&hvnetw=g&hvrand=9797095944547159871&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015249&hvtargid=pla-909763356913)
+- [Python for Algorithmic Trading: From Idea to Cloud Deployment](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment/dp/149205335X)
+- [40 Algorithms Every Programmer Should Know: Hone your problem-solving skills by learning different algorithms and their implementation in Python](https://www.amazon.com/Algorithms-Every-Programmer-Should-Know/dp/1789801214)
+- [Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://www.amazon.com/Graph-Algorithms-Practical-Examples-Apache/dp/1492047686)
+- [The Practitioner's Guide to Graph Data: Applying Graph Thinking and Graph Technologies to Solve Complex Problems](https://www.amazon.com/Practitioners-Guide-Graph-Data/dp/1492044075/ref=asc_df_1492044075/?tag=hyprod-20&linkCode=df0&hvadid=416953777802&hvpos=&hvnetw=g&hvrand=1683259656191897101&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015249&hvtargid=pla-920882834074&psc=1&tag=&ref=&adgrpid=93867144397&hvpone=&hvptwo=&hvadid=416953777802&hvpos=&hvnetw=g&hvrand=1683259656191897101&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015249&hvtargid=pla-920882834074)
+- [Hands-On Graph Analytics with Neo4j: Perform graph processing and visualization techniques using connected data across your enterprise](https://www.amazon.com/Hands-Graph-Analytics-Neo4j-visualization-ebook/dp/B08FBJ3B1S)
+
 
 ## General
 - [Market Mind Games: A Radical Psychology of Investing, Trading and Risk](https://www.amazon.com/Market-Mind-Games-Psychology-Investing/dp/0071756221)

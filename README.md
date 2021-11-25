@@ -4,6 +4,7 @@
 
 ### Coding
 - [Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment](https://www.amazon.com/Hands-Contract-Development-Solidity-Ethereum/dp/1492045268) 
+- [Hands-On Smart Contract Development with Hyperledger Fabric V2: Building Enterprise Blockchain Applications](https://www.amazon.com/Hands-Contract-Development-Hyperledger-Fabric/dp/1492086126/ref=sr_1_2?keywords=hyperledger&qid=1637809007&sr=8-2)
 - [Mastering Bitcoin: Programming the Open Blockchain](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain-dp-1491954388/dp/1491954388/ref=mt_other?_encoding=UTF8&me=&qid=)  
 - [Mastering Ethereum: Building Smart Contracts and DApps](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)  
 - [Mastering Blockchain: Unlocking the Power of Cryptocurrencies, Smart Contracts, and Decentralized Applications](https://www.amazon.com/Mastering-Blockchain-Cryptocurrencies-Decentralized-Applications/dp/1492054704/ref=asc_df_1492054704/?tag=hyprod-20&linkCode=df0&hvadid=475811913007&hvpos=&hvnetw=g&hvrand=2096507749973183573&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015249&hvtargid=pla-1024092062800&psc=1)  
@@ -48,6 +49,8 @@
 - [Python for Algorithmic Trading: From Idea to Cloud Deployment](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment/dp/149205335X)
 
 
+## Cloud
+  
 
 ## General
 - [Market Mind Games: A Radical Psychology of Investing, Trading and Risk](https://www.amazon.com/Market-Mind-Games-Psychology-Investing/dp/0071756221)

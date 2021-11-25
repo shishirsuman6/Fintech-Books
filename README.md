@@ -2,13 +2,16 @@
 
 ## Blockchain and Cryptocurrencies
 
+### Coding
+- [Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment](https://www.amazon.com/Hands-Contract-Development-Solidity-Ethereum/dp/1492045268) 
 - [Mastering Bitcoin: Programming the Open Blockchain](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain-dp-1491954388/dp/1491954388/ref=mt_other?_encoding=UTF8&me=&qid=)  
 - [Mastering Ethereum: Building Smart Contracts and DApps](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)  
 - [Mastering Blockchain: Unlocking the Power of Cryptocurrencies, Smart Contracts, and Decentralized Applications](https://www.amazon.com/Mastering-Blockchain-Cryptocurrencies-Decentralized-Applications/dp/1492054704/ref=asc_df_1492054704/?tag=hyprod-20&linkCode=df0&hvadid=475811913007&hvpos=&hvnetw=g&hvrand=2096507749973183573&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015249&hvtargid=pla-1024092062800&psc=1)  
 - [Mastering Blockchain: A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more, 3rd Edition](https://www.amazon.com/Mastering-Blockchain-distributed-consensus-cryptocurrencies/dp/1839213191/ref=asc_df_1839213191/?tag=hyprod-20&linkCode=df0&hvadid=459440273404&hvpos=&hvnetw=g&hvrand=2096507749973183573&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015249&hvtargid=pla-956266485981&psc=1)  
 - [How to DeFi: Beginner](https://www.amazon.com/How-DeFi-Beginner-Coin-Gecko/dp/B098GT2PSG/ref=asc_df_B098GT2PSG/?tag=hyprod-20&linkCode=df0&hvadid=532701074352&hvpos=&hvnetw=g&hvrand=14635272059459199220&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015249&hvtargid=pla-1374972546681&psc=1)  
 - [How to DeFi: Advanced](https://www.amazon.com/How-DeFi-Advanced-Coin-Gecko/dp/B098H215P3/ref=asc_df_B098H215P3/?tag=hyprod-20&linkCode=df0&hvadid=532384509515&hvpos=&hvnetw=g&hvrand=14635272059459199220&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015249&hvtargid=pla-1568037674592&psc=1) 
-- [Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment](https://www.amazon.com/Hands-Contract-Development-Solidity-Ethereum/dp/1492045268) 
+
+### Business
 - [Fintech: Hacking, Blockchain, Big Data, Cryptocurrency (Financial Technology, Smart Contracts, Digital Banking, Internet Technology)](https://www.amazon.com/Fintech-Blockchain-Cryptocurrency-Financial-Technology/dp/1976006880)  
 - [The Age of Cryptocurrency: How Bitcoin and the Blockchain Are Challenging the Global Economic Order](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556)  
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861)  

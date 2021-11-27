@@ -43,6 +43,7 @@
 - [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential-ebook-dp-B08712TT3F/dp/B08712TT3F/ref=mt_other?_encoding=UTF8&me=&qid=1637726913)
 - [AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence ](https://www.amazon.com/Machine-Learning-Coders-Programmers-Intelligence-ebook/dp/B08KYN45HF/ref=msx_wsirn_v1_2/145-7167907-8415728?pd_rd_w=eptVW&pf_rd_p=edd207be-8a1c-4e1d-9856-c764818e859d&pf_rd_r=BGZEFJBRA1ZDXDZYN4P1&pd_rd_r=76590726-d38e-404e-9075-a9405ee4fea7&pd_rd_wg=Sqt5Z&pd_rd_i=B08KYN45HF&psc=1)
 - [Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems](https://www.amazon.com/Practical-Natural-Language-Processing-Comprehensive-ebook-dp-B08BF7N3L4/dp/B08BF7N3L4/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [Sentiment Analysis: Mining Opinions, Sentiments, and Emotions](https://www.amazon.com/Sentiment-Analysis-Opinions-Sentiments-Emotions-ebook-dp-B00Y37YXIG/dp/B00Y37YXIG/ref=mt_other?_encoding=UTF8&me=&qid=)
 
 ### Finance
 - [Financial Theory with Python: A Gentle Introduction](https://www.amazon.com/Financial-Theory-Python-Gentle-Introduction/dp/1098104358)

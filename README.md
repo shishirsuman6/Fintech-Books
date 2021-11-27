@@ -45,6 +45,7 @@
 
 ### Finance
 - [Financial Theory with Python: A Gentle Introduction](https://www.amazon.com/Financial-Theory-Python-Gentle-Introduction/dp/1098104358)
+- [Python for Finance Cookbook: Over 50 recipes for applying modern Python libraries to financial data analysis](https://www.amazon.com/Python-Finance-Cookbook-libraries-financial-ebook/dp/B083KG9DC7/ref=reads_cwrtbar_5/140-9881649-8917904?pd_rd_w=DzH8b&pf_rd_p=0285128d-50e0-4388-acba-48a4a1f64720&pf_rd_r=J063YWJAZPDTRXXX6Y0Q&pd_rd_r=acaa128d-9643-41fc-aeb9-713fa3aadfde&pd_rd_wg=XkTEO&pd_rd_i=B083KG9DC7&psc=1)
 - [Hands-On Financial Trading with Python: A practical guide to using Zipline and other Python libraries for backtesting trading strategies](https://www.amazon.com/Hands-Financial-Trading-Python-backtesting-ebook-dp-B08RPBMFMR/dp/B08RPBMFMR/ref=mt_other?_encoding=UTF8&me=&qid=)
 - [Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715)
 - [Python for Algorithmic Trading: From Idea to Cloud Deployment](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment/dp/149205335X)

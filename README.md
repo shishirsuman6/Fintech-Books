@@ -24,6 +24,8 @@
 - [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671)  
 
 
+### [Top 20 Books a Software Developer Must Read](https://medium.com/vectorly-team/top-20-books-a-software-developer-must-read-9e223c63dc9d)
+
 ## Python
 
 ### Programming
